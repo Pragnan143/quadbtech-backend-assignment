@@ -1,0 +1,23 @@
+{
+  "name": "quadbtech-backend-assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pragnan143/quadbtech-backend-assignment.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pragnan143/quadbtech-backend-assignment/issues"
+  },
+  "homepage": "https://github.com/Pragnan143/quadbtech-backend-assignment#readme",
+  "dependencies": {
+    "express": "^4.19.2",
+    "nodemon": "^3.1.4"
+  }
+}
